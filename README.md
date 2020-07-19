@@ -12,6 +12,6 @@ No meu tempo livre, gosto de jogar xadrez, jogos do Mario Bros :hand_over_mouth:
 Ah eu tenho um gato chamado Orion :hamster:	
 
 <p align="left">
-  <img src="IMG_3673.jpg" width="350" alt="Orion">
+  <img src="https://github.com/agathapaiiva/agathapaiiva/blob/master/IMG_3673.jpg" width="350" alt="Orion">
 </p>
 
